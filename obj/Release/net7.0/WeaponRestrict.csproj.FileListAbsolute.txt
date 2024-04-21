@@ -1,0 +1,10 @@
+D:\Dev\WeaponRestrict-main\bin\Release\net7.0\WeaponRestrict.deps.json
+D:\Dev\WeaponRestrict-main\bin\Release\net7.0\WeaponRestrict.dll
+D:\Dev\WeaponRestrict-main\obj\Release\net7.0\WeaponRestrict.csproj.AssemblyReference.cache
+D:\Dev\WeaponRestrict-main\obj\Release\net7.0\WeaponRestrict.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\WeaponRestrict-main\obj\Release\net7.0\WeaponRestrict.AssemblyInfoInputs.cache
+D:\Dev\WeaponRestrict-main\obj\Release\net7.0\WeaponRestrict.AssemblyInfo.cs
+D:\Dev\WeaponRestrict-main\obj\Release\net7.0\WeaponRestrict.csproj.CoreCompileInputs.cache
+D:\Dev\WeaponRestrict-main\obj\Release\net7.0\WeaponRestrict.dll
+D:\Dev\WeaponRestrict-main\obj\Release\net7.0\refint\WeaponRestrict.dll
+D:\Dev\WeaponRestrict-main\obj\Release\net7.0\ref\WeaponRestrict.dll
