@@ -1,6 +1,6 @@
 # WeaponRestrict
 [Оригинал плагина](https://github.com/CS2Plugins/WeaponRestrict) </br>
-Автор плагина: [Whaliin](https://github.com/Whaliin)
+Автор оригинального плагина: [Whaliin](https://github.com/Whaliin)
 
 # Изменения в моей версии:
 - Иммунитет не действует на блок weaponlimits, теперь можно отключать оружия значением 0 и вип игрокам не будут доступны эти оружия
